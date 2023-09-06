@@ -1,5 +1,5 @@
 # Sales Data Exploratory
-
+![image](https://github.com/jimi121/SQL-PROJECTS/blob/main/Sales%20Analysis/SALES.jpeg
 ## **Introduction:**
 
 Conduct a comprehensive sales analysis on a PostgreSQL database with the goal of uncovering valuable insights. This analysis will focus on identifying the following key aspects:
