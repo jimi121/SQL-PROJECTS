@@ -1,5 +1,5 @@
 # DVD Rental Analysis
-![](image/DVD rental.jpeg)
+![image]([image/DVD rental.jpeg](https://github.com/jimi121/SQL-PROJECTS/blob/main/DvD%20Rental%20Analysis/Image/DVD%20rental.jpeg))
 # Introduction
 
 In this project, I conducted an in-depth exploration of the  DVD Rental database. This database contains valuable information about a DVD rental company. Throughout this project, I utilized a series of queries to unearth insights into various aspects of the business. I delved into understanding customer behavior, payment earnings, and the performance of different stores within the company.
