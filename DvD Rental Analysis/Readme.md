@@ -67,7 +67,7 @@ Congratulations, you are now linked to the DVD rental database and ready to exec
 
 With your local environment set up, you can begin exploring the DVD Rental database and uncover valuable insights. Happy querying!
 
-![image]([image/dvd rental erd.png](https://github.com/jimi121/SQL-PROJECTS/blob/main/DvD%20Rental%20Analysis/Image/dvd%20rental%20erd.png))
+![image](https://github.com/jimi121/SQL-PROJECTS/blob/main/DvD%20Rental%20Analysis/dvd%20rental%20erd.png)
 
 ### Dataset Description:
 
