@@ -1,5 +1,5 @@
 # DVD Rental Analysis
-![image]([image/DVD rental.jpeg](https://github.com/jimi121/SQL-PROJECTS/blob/main/DvD%20Rental%20Analysis/Image/DVD%20rental.jpeg))
+![image/DVD rental.jpeg](https://github.com/jimi121/SQL-PROJECTS/blob/main/DvD%20Rental%20Analysis/Image/DVD%20rental.jpeg))
 # Introduction
 
 In this project, I conducted an in-depth exploration of the  DVD Rental database. This database contains valuable information about a DVD rental company. Throughout this project, I utilized a series of queries to unearth insights into various aspects of the business. I delved into understanding customer behavior, payment earnings, and the performance of different stores within the company.
@@ -67,6 +67,7 @@ Congratulations, you are now linked to the DVD rental database and ready to exec
 
 With your local environment set up, you can begin exploring the DVD Rental database and uncover valuable insights. Happy querying!
 
+![](image/dvd rental erd.png)
 
 ### Dataset Description:
 
@@ -101,7 +102,7 @@ I initiated the analysis by exploring the DvdRental database, which comprises 15
 14. **country:** The country table contains data about countries, offering context for the city locations in the dataset.
 
 This comprehensive dataset enables a thorough analysis of the DVD rental business, encompassing information about films, actors, customers,staff, and more.
-![](image/dvd rental erd.png)
+
 ## Questions to be answered:
 In this project, I’ll aim to answer the following questions:
 
