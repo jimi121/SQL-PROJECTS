@@ -27,7 +27,7 @@ The results of the project are as follows:
 * The most popular country for music purchases is the United States.
 * Wyatt Girard is the best customer bescause he was the one that spent the most money.
 * The most popular song is "War Pigs"
-
+* [Data Analysis Questions and Answers](https://github.com/jimi121/SQL-PROJECTS/blob/main/Music%20Store%20Analysis/MUSIC%20ANALYSIS%20QUESTIONS%20AND%20ANSWERS.md)
 ## Conclusion
 
 The successful completion of this project provides the music store with actionable insights to guide marketing strategies and product offerings. The results offer a foundation for informed decision-making, supporting the store's pursuit of continued success and growth.
