@@ -96,6 +96,8 @@ In this project, I’ll aim to answer the following questions:
 9. In which month of which year did Walmart spend the most on gloss paper in terms of dollars ?
 10. What is the total amount Of paper that has been sold ?
 
+* [Data analysis questions and answered](https://github.com/jimi121/SQL-PROJECTS/blob/main/Sales%20Analysis/SALES%20ANALYSIS%20QUESTION%20AND%20ANSWER.md)
+
 ## Conclusion:
 In this comprehensive analysis of the dataset, several key insights emerge:
 
