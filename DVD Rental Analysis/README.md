@@ -116,7 +116,7 @@ In this project, I’ll aim to answer the following questions:
 8. In which months did each store process the highest total number of rental orders?
 9. Can you provide the details of customers who have not returned DVDs?
 
-* [Data analysis questions and answered](https://github.com/jimi121/SQL-PROJECTS/blob/main/DVD%20Rental%20Analysis/DVD%20RENTAL%20QUESTIONS%20AND%20ANSWER.md)
+* [Data Analysis Questions and Answers](https://github.com/jimi121/SQL-PROJECTS/blob/main/DVD%20Rental%20Analysis/DVD%20RENTAL%20QUESTIONS%20AND%20ANSWER.md)
 
 ## Conclusions from the Analysis:
 
