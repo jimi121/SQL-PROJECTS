@@ -1,5 +1,5 @@
 # SQL Project: Music Store Analysis
-
+![image](https://github.com/jimi121/SQL-PROJECTS/blob/main/Music%20Store%20Analysis/images.png)
 ## Description
 
 This SQL project involves the analysis of an online music store dataset using PostgreSQL and PgAdmin4. The objective is to extract valuable insights to enhance the store's business performance and inform strategic decision-making for future growth.
