@@ -141,7 +141,7 @@ SQL queries utilised are linked [here](https://github.com/jimi121/SQL-PROJECTS/b
 
 The segmentation results are available here.
 
-Find project recommendations here.
+Find project recommendations [here](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/Insights%20and%20Recommendations.pptx).
 
 ## Table Result for the Segmentation
 |account number|contact email               |last_transaction_date  |months_since_last_salary|transaction_count|monthly_salary_value|salaryrange|rfm_score|segment         |
