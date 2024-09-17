@@ -137,7 +137,7 @@ SELECT * FROM getcustomersegment('student', '2023-08-31', 'salary');
 
 ### 7. Data Analysis and Results
 
-SQL queries utilised are linked here.
+SQL queries utilised are linked [here](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/SQL%20Query.md).
 
 The segmentation results are available here.
 
