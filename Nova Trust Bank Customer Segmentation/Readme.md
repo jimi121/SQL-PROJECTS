@@ -1,4 +1,5 @@
 # NovaTrust Bank - SQL-Based Customer Segmentation Project 
+![image](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/Image.jpg)
 ## Project Overview
 
 NovaTrust Bank, a financial institution with a significant student customer base, faced a challenge: identifying former students who have transitioned into the workforce and tailoring banking services to their evolving financial needs. As part of my role, I was responsible for developing a data-driven solution to segment these customers based on their transaction patterns, specifically identifying those who now regularly receive salary payments. This would enable the bank to offer personalized products, including loans and account upgrades, to meet their current financial situation.
