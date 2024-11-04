@@ -183,8 +183,8 @@ This project demonstrates how SQL-driven data analysis can empower customer segm
 - **Outcome:** Improved segmentation for targeted marketing, with recommendations based on customer transaction behavior.
 
 ### Data Analysis And Results
-- SQL queries utilised are linked [here]().
+- SQL queries utilised are linked [here](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/SQL%20Query%20And%20Solution.md).
 
-- The segmentation results are available [here]().
+- The segmentation results are available [here](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/Customer%20Segmentation%20data.xlsx).
 
-- Find project recommendations [here]().
+- Find project recommendations [here](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/Insights%20And%20Recommendations.PPtx).
