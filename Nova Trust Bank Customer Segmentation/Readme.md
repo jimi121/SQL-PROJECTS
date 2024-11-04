@@ -1,5 +1,5 @@
 # NovaTrust Bank - SQL-Based Customer Segmentation Project 
-
+![](https://github.com/jimi121/SQL-PROJECTS/blob/main/Nova%20Trust%20Bank%20Customer%20Segmentation/Nova%20Trust%20Bank%20images.jpg)
 ## Project Overview
 
 **NovaTrust Bank** needed a targeted approach to engage former student customers who have transitioned into the workforce, offering them banking solutions aligned with their current financial needs. This project focused on using SQL to identify customers now receiving regular salary deposits, allowing the bank to offer tailored products, including loans and account upgrades. My role involved designing a segmentation strategy based on transaction data, optimizing it for efficiency, and creating a reusable solution that enables targeted marketing campaigns.
