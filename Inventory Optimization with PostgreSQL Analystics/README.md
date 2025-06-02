@@ -133,3 +133,9 @@ Comprehensive project details are available in the `Inventory Optimization with 
 
 ## Conclusion
 This project demonstrates the power of SQL-driven analytics to tackle inventory management challenges. By optimizing stock levels, organizations can enhance customer satisfaction, streamline operations, and boost profitability. Explore the code and documentation to see how PostgreSQL can transform data into actionable insights.
+
+## 📌 **Follow me on:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/olajimi-adeleke)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/jimi121?tab=repositories)   
+
+📧 Email me at: [adelekejimi@gmail.com](mailto:adelekejimi@gmail.com)
