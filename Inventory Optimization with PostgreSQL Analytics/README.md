@@ -1,5 +1,5 @@
 # Inventory Optimization with PostgreSQL Analytics
-
+![](https://github.com/jimi121/SQL-PROJECTS/blob/main/Inventory%20Optimization%20with%20PostgreSQL%20Analytics/img.png)
 ## Introduction
 Efficient inventory management is a critical driver of success across industries, enabling organizations to meet demand while controlling costs. Overstocking consumes capital and storage resources, while understocking leads to lost sales and dissatisfied customers. This project addresses these challenges by leveraging SQL-based analytics in PostgreSQL to optimize inventory levels. By analyzing historical sales, product details, and external economic factors, I developed a scalable, data-driven system to ensure product availability without excess stock. This repository contains the code, documentation, and insights for a solution adaptable to any sector.
 
@@ -130,19 +130,6 @@ SQL scripts for data cleaning, integration, analysis, and automation are availab
 
 ## Documentation
 Comprehensive project details are available in the `Inventory Optimization with PostgreSQL Analytics.pdf` file in this repository.
-
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/new-feature`).
-3. Commit changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/new-feature`).
-5. Open a pull request.
-
-Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) code of conduct.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Conclusion
 This project demonstrates the power of SQL-driven analytics to tackle inventory management challenges. By optimizing stock levels, organizations can enhance customer satisfaction, streamline operations, and boost profitability. Explore the code and documentation to see how PostgreSQL can transform data into actionable insights.
