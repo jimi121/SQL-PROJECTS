@@ -107,7 +107,7 @@ To run this project locally:
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jimi121/Inventory_Optimization_with_PostgreSQL_Analytics.git
+   git clone https://github.com/jimi121/Inventory-Optimization-with-PostgreSQL-Analytics.git
    cd inventory-optimization-postgresql
    ```
 2. **Set Up Database**: Follow the installation instructions above.
