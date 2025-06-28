@@ -1,5 +1,5 @@
 # Solving the Murder of Roland Greene: A PostgreSQL-Driven Forensic Data Analysis
-![](https://github.com/jimi121/SQL-PROJECTS/blob/main/RolandGreeneCaseSQLAnalysis/forensics%20image.jpg)
+![](https://github.com/jimi121/SQL-PROJECTS/blob/main/RolandGreeneCaseSQLAnalysis/forensics.jpg)
 ## Introduction
 
 On June 1, 2025, Roland Greene, a renowned art collector, was fatally shot in his secure Vault Room at precisely 8:00 PM (20:00:00) during an exclusive art auction at his sprawling estate. The high-stakes event, attended by 30 elite guests from the art world, was a hotbed of ambition, rivalry, and deception, with valuable artworks on the line. Among the guests, the killer concealed their actions behind a false alibi, exploiting a mysterious phone call that coincided with the murder to evade detection. As a Forensic Data Analyst, I was tasked with unraveling this complex case, leveraging PostgreSQL to analyze large datasets capturing suspect movements, phone calls, and alibis. My mission was to answer five critical questions:
