@@ -1,0 +1,101 @@
+log_id,suspect_id,access_time,door_accessed,success_flag
+101,18,2025-06-01 20:00:57,Kitchen,True
+102,27,2025-06-01 20:01:03,Master Bedroom,True
+103,30,2025-06-01 19:45:33,Vault Room,False
+104,28,2025-06-01 19:48:39,Office,True
+105,30,2025-06-01 20:10:33,Master Bedroom,False
+106,8,2025-06-01 19:49:14,Master Bedroom,True
+107,13,2025-06-01 19:47:50,Kitchen,False
+108,6,2025-06-01 19:48:37,Garden Exit,False
+109,16,2025-06-01 20:08:46,Kitchen,False
+110,11,2025-06-01 20:03:01,Kitchen,True
+111,1,2025-06-01 19:48:51,Vault Room,True
+112,11,2025-06-01 19:55:15,Vault Room,False
+113,1,2025-06-01 19:58:02,Office,False
+114,7,2025-06-01 20:05:28,Master Bedroom,False
+115,20,2025-06-01 19:47:55,Office,False
+116,18,2025-06-01 19:55:00,Library,True
+117,18,2025-06-01 19:59:23,Garden Exit,False
+118,27,2025-06-01 20:01:47,Library,False
+119,20,2025-06-01 19:46:35,Library,False
+120,1,2025-06-01 19:57:46,Office,False
+121,18,2025-06-01 20:13:45,Library,True
+122,3,2025-06-01 19:54:04,Library,True
+123,24,2025-06-01 20:11:07,Master Bedroom,False
+124,9,2025-06-01 20:12:28,Kitchen,True
+125,25,2025-06-01 19:54:28,Master Bedroom,False
+126,6,2025-06-01 20:10:09,Vault Room,False
+127,3,2025-06-01 20:12:34,Library,False
+128,5,2025-06-01 19:57:12,Master Bedroom,False
+129,19,2025-06-01 19:53:54,Kitchen,False
+130,11,2025-06-01 20:13:42,Master Bedroom,True
+131,30,2025-06-01 20:12:01,Kitchen,False
+132,28,2025-06-01 19:54:40,Vault Room,False
+133,17,2025-06-01 20:03:51,Master Bedroom,False
+134,14,2025-06-01 20:14:55,Garden Exit,True
+135,27,2025-06-01 20:04:53,Vault Room,True
+136,23,2025-06-01 20:09:14,Vault Room,True
+137,8,2025-06-01 20:10:57,Office,False
+138,11,2025-06-01 20:07:08,Library,False
+139,6,2025-06-01 20:00:05,Master Bedroom,True
+140,28,2025-06-01 20:00:09,Office,True
+141,5,2025-06-01 19:49:52,Master Bedroom,True
+142,21,2025-06-01 19:52:47,Kitchen,True
+143,23,2025-06-01 19:45:37,Office,False
+144,19,2025-06-01 20:07:38,Master Bedroom,True
+145,9,2025-06-01 19:45:28,Vault Room,False
+146,2,2025-06-01 19:48:11,Master Bedroom,True
+147,8,2025-06-01 20:09:30,Garden Exit,True
+148,29,2025-06-01 19:59:45,Garden Exit,False
+149,10,2025-06-01 19:53:17,Master Bedroom,True
+150,3,2025-06-01 19:58:05,Kitchen,True
+151,25,2025-06-01 19:54:20,Library,False
+152,4,2025-06-01 19:59:37,Master Bedroom,False
+153,20,2025-06-01 20:12:47,Library,True
+154,16,2025-06-01 19:52:45,Vault Room,False
+155,7,2025-06-01 20:09:01,Office,True
+156,4,2025-06-01 20:11:57,Vault Room,True
+157,1,2025-06-01 19:50:26,Garden Exit,False
+158,14,2025-06-01 19:52:00,Vault Room,True
+159,7,2025-06-01 20:03:36,Garden Exit,True
+160,18,2025-06-01 20:00:03,Kitchen,False
+161,29,2025-06-01 20:10:24,Office,False
+162,12,2025-06-01 20:07:29,Vault Room,False
+163,3,2025-06-01 19:48:07,Office,True
+164,13,2025-06-01 19:47:18,Library,False
+165,3,2025-06-01 19:50:33,Office,False
+166,22,2025-06-01 19:45:19,Office,False
+167,16,2025-06-01 19:51:16,Master Bedroom,True
+168,30,2025-06-01 19:51:32,Office,False
+169,13,2025-06-01 19:52:55,Garden Exit,False
+170,7,2025-06-01 20:06:16,Kitchen,True
+171,27,2025-06-01 19:50:39,Vault Room,True
+172,6,2025-06-01 20:10:22,Library,True
+173,23,2025-06-01 19:59:06,Office,False
+174,23,2025-06-01 20:00:20,Library,True
+175,19,2025-06-01 20:11:55,Kitchen,True
+176,18,2025-06-01 19:49:39,Office,True
+177,18,2025-06-01 20:02:19,Library,False
+178,6,2025-06-01 20:06:41,Kitchen,False
+179,17,2025-06-01 19:54:05,Office,True
+180,17,2025-06-01 19:56:35,Vault Room,True
+181,7,2025-06-01 20:02:42,Office,True
+182,21,2025-06-01 19:52:28,Vault Room,False
+183,3,2025-06-01 19:49:12,Office,True
+184,19,2025-06-01 19:58:03,Master Bedroom,True
+185,24,2025-06-01 19:56:57,Office,True
+186,27,2025-06-01 19:52:36,Kitchen,True
+187,23,2025-06-01 20:02:58,Office,False
+188,29,2025-06-01 20:03:01,Kitchen,False
+189,12,2025-06-01 20:12:50,Garden Exit,False
+190,29,2025-06-01 20:01:47,Garden Exit,False
+191,18,2025-06-01 19:48:26,Library,True
+192,16,2025-06-01 20:05:40,Kitchen,True
+193,23,2025-06-01 19:55:17,Kitchen,True
+194,29,2025-06-01 20:13:46,Garden Exit,False
+195,9,2025-06-01 20:04:46,Office,False
+196,28,2025-06-01 20:00:55,Vault Room,True
+197,10,2025-06-01 20:01:48,Garden Exit,True
+198,22,2025-06-01 20:05:23,Library,False
+199,25,2025-06-01 19:59:06,Library,True
+200,6,2025-06-01 19:53:08,Office,True
